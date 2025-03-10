@@ -1,1 +1,1 @@
-Add requirements.txt
+werkzeug==2.2.3
